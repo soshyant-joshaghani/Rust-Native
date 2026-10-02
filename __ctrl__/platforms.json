@@ -1,0 +1,16 @@
+{
+  "platforms": [
+    {
+      "id": "android",
+      "label": "Android",
+      "path": "../frontend/android",
+      "status": "reserved"
+    },
+    {
+      "id": "windows",
+      "label": "Windows",
+      "path": "../frontend/windows",
+      "status": "reserved"
+    }
+  ]
+}
