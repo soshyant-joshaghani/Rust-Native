@@ -1,0 +1,16 @@
+{
+  "kits": [
+    {
+      "id": "svelte",
+      "label": "Rust-Svelte",
+      "source": "../rust-svelte/frontend",
+      "repo": "https://github.com/soshyant-joshaghani/Rust-Svelte.git",
+      "github": "soshyant-joshaghani/Rust-Svelte",
+      "branch": "main",
+      "runtime": "node",
+      "dev": ["npm", "run", "dev"],
+      "cwd": "frontend/web",
+      "scaffold": "svelte"
+    }
+  ]
+}

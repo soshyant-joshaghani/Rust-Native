@@ -1,0 +1,26 @@
+{
+  "web": {
+    "svelte": {
+      "name": "Rust-Svelte",
+      "source": "../rust-svelte/frontend",
+      "repository": "https://github.com/soshyant-joshaghani/Rust-Svelte",
+      "enabled": true
+    },
+    "next": {
+      "name": "Rust-Next",
+      "repository": "",
+      "enabled": false
+    },
+    "nuxt": {
+      "name": "Rust-Nuxt",
+      "repository": "",
+      "enabled": false
+    }
+  },
+  "android": {
+    "enabled": false
+  },
+  "windows": {
+    "enabled": false
+  }
+}
